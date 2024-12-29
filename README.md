@@ -29,9 +29,7 @@ We have generated a Swagger OpenAPI html page in the backend in order to have al
 
 
 ### Backend
-Based on the visible structure of the backend in your project:
 
-#### Backend Directory Structure
 1. src/:  
    - config : Contains configuration files ( database connection, creation of tables).  
    - controllers/: Contains the logic for handling API requests and responses.  
