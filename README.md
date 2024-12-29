@@ -15,3 +15,5 @@
 ## Project Structure
 - **frontend/** : Contains the Angular or React code for the user interface.
 - **backend/** : Contains the NodeJS or Spring Boot code for the server-side logic.
+
+![Capture d’écran 2024-12-29 à 19 39 00](https://github.com/user-attachments/assets/e6624611-ec86-4132-acad-c51dcc6b9244)
