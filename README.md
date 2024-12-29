@@ -7,10 +7,6 @@
 
 **We chose to create a web application for managing school operations efficiently. It's the continuation of our Software Engineering.**
 
-## Features
-- Student, Teacher, and Admin portals.
-- Attendance tracking, grades management, and information about the user.
-- Secure role-based access control (RBAC).
 
 ## Project Structure
 - **frontend/** : Contains the Angular code for the user interface.
