@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                                /* Target ECMAScript 6 */
+    "module": "commonjs",                           /* Use CommonJS module system */
+    "outDir": "./dist",                             /* Output compiled files to 'dist' folder */
+    "rootDir": "./src",                             /* Specify source files directory */
+    "strict": true,                                 /* Enable all strict type-checking options */
+    "esModuleInterop": true,                        /* Allow ES6 modules with CommonJS compatibility */
+    "forceConsistentCasingInFileNames": true,       /* Ensure consistent file casing */
+    "skipLibCheck": true                            /* Skip type checking of .d.ts files */
+  },
+  "include": ["src/**/*.ts"],                       /* Include all TypeScript files in 'src' folder */
+  "exclude": ["node_modules", "dist"]               /* Exclude compiled output and dependencies */
+}
