@@ -1,5 +1,8 @@
 # School Management System
 
+## Our Repository
+https://github.com/mariusokoto/Node-project
+
 ## Our Team
 - Marius Léorat : mariusokoto
 - Eve Pineau : evepineau
