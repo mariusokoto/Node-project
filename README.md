@@ -3,7 +3,7 @@
 ## Our Team
 - Marius LOERAT : mariusokoto
 - Eve PINEAU : evepineau
-- Arthur PUISSILIEUX: Arturo1s
+- Arthur PUISSILIEUX : Arturo1s
 
 **We chose to create a web application for managing school operations efficiently. It's the continuation of our Software Engineering.**
 
