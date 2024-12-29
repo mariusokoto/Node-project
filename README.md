@@ -1,9 +1,9 @@
 # School Management System
 
 ## Our Team
-- Marius Loérat : mariusokoto
-- Eve Pineau : evepineau
-- Arthur Puissilieux : Arturo1s
+- Marius LOERAT : mariusokoto
+- Eve PINEAU : evepineau
+- Arthur PUISSILIEUX: Arturo1s
 
 **We chose to create a web application for managing school operations efficiently. It's the continuation of our Software Engineering.**
 
